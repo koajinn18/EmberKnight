@@ -1,0 +1,17 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Python / Node / etc builds (optional, safe to keep)
+__pycache__/
+node_modules/
+dist/
+build/
